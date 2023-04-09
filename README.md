@@ -18,8 +18,6 @@ Users should be able to:
 
 ### 🚀 Demo
 
-[https://ailenglassmam.github.io/Survey-form/](https://ailenglassmam.github.io/Survey-form/)
-
 ### Built with
 
 - Semantic HTML5 markup
